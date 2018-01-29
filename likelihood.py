@@ -21,5 +21,5 @@ def likelihood_function(dados):
 
 x_p = [1, 1, 1]
 
-results = minimize(likelihood_function, x_p, method='nelder-mead')
-print (results.x)
+r = minimize(likelihood_function, x_p, method='nelder-mead')
+print (r.x)
