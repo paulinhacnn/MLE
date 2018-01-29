@@ -1,2 +1,2 @@
 # MLE
-maximum likelihood estimation , em andamento
+maximum likelihood estimation , in progress
